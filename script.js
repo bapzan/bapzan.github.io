@@ -10,7 +10,7 @@ function cancel(){
 // for Typewriter effect
 
 const texts = [
-    "PSICÓLOGA",
+    "PSICOLOGA",
     "ESCRITORA",
     "PETLOVER"
 ]
